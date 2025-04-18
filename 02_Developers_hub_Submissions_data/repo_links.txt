@@ -1,5 +1,0 @@
-
-https://github.com/MANAS8991/-IBM-HR-Analytics-Employee-Attrition.github.io/blob/main/CODE/Program-Code.md
-https://github.com/chayandatta/Heart_disease_prediction/blob/master/README.md
-https://github.com/yanhan-si/LendingClub-Loan-Default-Prediction/blob/master/Lending_Club_Loan_Default_Prediction.ipynb
-https://github.com/azizamirsaidova/abstractive_text_summarization/blob/main/notebooks/Text_summarization_pre_processing_and_training.ipynb
